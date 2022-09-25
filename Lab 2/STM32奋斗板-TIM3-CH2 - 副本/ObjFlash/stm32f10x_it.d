@@ -1,0 +1,12 @@
+..\objflash\stm32f10x_it.o: stm32f10x_it.c
+..\objflash\stm32f10x_it.o: ..\CM3\stm32f10x.h
+..\objflash\stm32f10x_it.o: ..\CM3\core_cm3.h
+..\objflash\stm32f10x_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\objflash\stm32f10x_it.o: ..\CM3\system_stm32f10x.h
+..\objflash\stm32f10x_it.o: ..\FWLib\inc\stm32f10x_conf.h
+..\objflash\stm32f10x_it.o: ..\FWLib\inc\stm32f10x_gpio.h
+..\objflash\stm32f10x_it.o: ..\CM3\stm32f10x.h
+..\objflash\stm32f10x_it.o: ..\FWLib\inc\stm32f10x_rcc.h
+..\objflash\stm32f10x_it.o: ..\FWLib\inc\stm32f10x_exti.h
+..\objflash\stm32f10x_it.o: ..\FWLib\inc\misc.h
+..\objflash\stm32f10x_it.o: ..\FWLib\inc\stm32f10x_tim.h

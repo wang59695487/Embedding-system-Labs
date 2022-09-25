@@ -1,0 +1,16 @@
+--cpu Cortex-M3
+"..\objflash\main.o"
+"..\objflash\startup_stm32f10x_hd.o"
+"..\objflash\stm32f10x_it.o"
+"..\objflash\tim.o"
+"..\objflash\misc.o"
+"..\objflash\stm32f10x_gpio.o"
+"..\objflash\stm32f10x_rcc.o"
+"..\objflash\stm32f10x_tim.o"
+"..\objflash\stm32f10x_exti.o"
+"..\objflash\core_cm3.o"
+"..\objflash\system_stm32f10x.o"
+--strict --scatter "..\ObjFlash\STM32-FD-TIM3-CH2.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "..\LstFlash\STM32-FD-TIM3-CH2.map" -o ..\ObjFlash\STM32-FD-TIM3-CH2.axf

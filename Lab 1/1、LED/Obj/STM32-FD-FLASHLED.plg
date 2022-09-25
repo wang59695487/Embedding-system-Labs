@@ -1,0 +1,152 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Yulin\Desktop\20170901\ µ—È1\≥Ã–Ú\STM32∑‹∂∑∞Â-LED…¡À∏\stm32-fd-FlashLED.uv2
+Project File Date:  11/12/2016
+
+<h2>Output:</h2>
+Load "C:\\Users\\Yulin\\Desktop\\20170901\\ µ—È1\\≥Ã–Ú\\STM32∑‹∂∑∞Â-LED…¡À∏\\Obj\\STM32-FD-FLASHLED.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Dec  1 2009 11:42:48
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+---
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: CPU did not halt, trying to disable WDT.
+***JLink Error: Failed to halt CPU
+Load "C:\\Users\\Yulin\\Desktop\\20170901\\ µ—È1\\≥Ã–Ú\\STM32∑‹∂∑∞Â-LED…¡À∏\\Obj\\STM32-FD-FLASHLED.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Dec  1 2009 11:42:48
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+---
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: CPU did not halt, trying to disable WDT.
+***JLink Error: Failed to halt CPU
+Load "C:\\Users\\Yulin\\Desktop\\20170901\\ µ—È1\\≥Ã–Ú\\STM32∑‹∂∑∞Â-LED…¡À∏\\Obj\\STM32-FD-FLASHLED.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Dec  1 2009 11:42:48
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+---
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: CPU did not halt, trying to disable WDT.
+***JLink Error: Failed to halt CPU
+Load "C:\\Users\\Yulin\\Desktop\\20170901\\ µ—È1\\≥Ã–Ú\\STM32∑‹∂∑∞Â-LED…¡À∏\\Obj\\STM32-FD-FLASHLED.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Dec  1 2009 11:42:48
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+---
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: CPU did not halt, trying to disable WDT.
+***JLink Error: Failed to halt CPU
+Build target 'Target 1'
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+linking...
+Program Size: Code=2564 RO-data=336 RW-data=44 ZI-data=1028  
+FromELF: creating hex file...
+".\Obj\STM32-FD-FLASHLED.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Yulin\\Desktop\\20170901\\ µ—È1\\≥Ã–Ú\\STM32∑‹∂∑∞Â-LED…¡À∏\\Obj\\STM32-FD-FLASHLED.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Dec  1 2009 11:42:48
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+---
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: CPU did not halt, trying to disable WDT.
+***JLink Error: Failed to halt CPU
+Load "C:\\Users\\Yulin\\Desktop\\20170901\\ µ—È1\\≥Ã–Ú\\STM32∑‹∂∑∞Â-LED…¡À∏\\Obj\\STM32-FD-FLASHLED.AXF" 
+Load "C:\\Users\\Yulin\\Desktop\\20170901\\ µ—È1\\≥Ã–Ú\\STM32∑‹∂∑∞Â-LED…¡À∏\\Obj\\STM32-FD-FLASHLED.AXF" 
+
+JLink info:
+-----------
+DLL: V4.08b, compiled Jun 30 2009 19:10:31
+Firmware: J-Link ARM V8 compiled Dec  1 2009 11:42:48
+Hardware: V8.00
+S/N : 20100214 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+---
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+
+Target info:
+------------
+Device: STM32F103VE
+VTarget = 3.429V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 0, TMS: 0, TRES: 1, TRST: 1
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Hardware-Breakpoints: 6
+Software-Breakpoints: 2048
+Watchpoints:          4
+JTAG speed: 2000 kHz
+---
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Full Chip Erase Done.
+Programming Done.
+Verify OK.
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+Application running ...
